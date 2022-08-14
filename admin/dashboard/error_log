@@ -1,0 +1,9 @@
+[12-Aug-2022 22:34:01 America/New_York] PHP Notice:  Undefined index: email in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 6
+[12-Aug-2022 22:34:01 America/New_York] PHP Notice:  Undefined index: is_admin in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 12
+[12-Aug-2022 22:34:07 America/New_York] PHP Notice:  Undefined index: email in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 6
+[12-Aug-2022 22:34:07 America/New_York] PHP Notice:  Undefined index: is_admin in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 12
+[12-Aug-2022 22:34:23 America/New_York] PHP Notice:  Undefined index: email in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 6
+[12-Aug-2022 22:34:23 America/New_York] PHP Notice:  Undefined index: is_admin in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 12
+[12-Aug-2022 22:34:24 America/New_York] PHP Notice:  Undefined variable: permission in /home/whynmzhg/webitaltech.com/admin/dashboard/admin_table.php on line 10
+[12-Aug-2022 22:34:24 America/New_York] PHP Notice:  Undefined index: email in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 6
+[12-Aug-2022 22:34:24 America/New_York] PHP Notice:  Undefined index: is_admin in /home/whynmzhg/webitaltech.com/admin/dashboard/Layout/header.php on line 12

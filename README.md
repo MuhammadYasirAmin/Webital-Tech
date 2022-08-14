@@ -1,2 +1,0 @@
-# Webital Tech
- Personal Business
